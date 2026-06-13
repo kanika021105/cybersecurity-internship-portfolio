@@ -1,0 +1,16 @@
+Scanning 192.168.1.34...
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-13 12:06 +0530
+Nmap scan report for 192.168.1.34
+Host is up (0.069s latency).
+Not shown: 92 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+80/tcp    closed http
+443/tcp   closed https
+8080/tcp  closed http-proxy
+49152/tcp closed unknown
+49154/tcp closed unknown
+49155/tcp closed unknown
+49156/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 14.46 seconds

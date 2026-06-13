@@ -1,0 +1,24 @@
+# Nmap 7.99 scan initiated Fri Jun 12 14:07:58 2026 as: nmap -sU -F -oN /Users/apple/My-Cyber-Internship/Security-Tools/scans/udp-scan-34.txt 192.168.1.34
+Nmap scan report for 192.168.1.34
+Host is up (0.080s latency).
+Not shown: 83 open|filtered udp ports (no-response)
+PORT      STATE  SERVICE
+49152/udp closed unknown
+49153/udp closed unknown
+49154/udp closed unknown
+49156/udp closed unknown
+49181/udp closed unknown
+49182/udp closed unknown
+49185/udp closed unknown
+49186/udp closed unknown
+49188/udp closed unknown
+49190/udp closed unknown
+49191/udp closed unknown
+49192/udp closed unknown
+49193/udp closed unknown
+49194/udp closed unknown
+49200/udp closed unknown
+49201/udp closed unknown
+65024/udp closed unknown
+
+# Nmap done at Fri Jun 12 14:08:01 2026 -- 1 IP address (1 host up) scanned in 3.32 seconds
